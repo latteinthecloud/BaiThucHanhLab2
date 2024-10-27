@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|d:\\webapplication1\\webapplication1\\views\\shared\\_layoutorgani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layoutorgani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 161,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutOrgani.cshtml",
+              "DocumentMoniker": "D:\\WebApplication1\\WebApplication1\\Views\\Shared\\_LayoutOrgani.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_LayoutOrgani.cshtml",
+              "ToolTip": "D:\\WebApplication1\\WebApplication1\\Views\\Shared\\_LayoutOrgani.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_LayoutOrgani.cshtml",
+              "ViewState": "AgIAAAABAAAAAAAAAAAtwA8BAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:11:24.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
