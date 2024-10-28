@@ -1,8 +1,15 @@
+using Microsoft.EntityFrameworkCore;
+using WebApplication1.Models;
+using WebApplication1.Repository;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+var connectionString = builder.Configuration.GetConnectionString("QlbanVaLiContext");
+builder.Services.AddDbContext<QlbanVaLiContext>(x=>x.UseSqlServer(connectionString));
 
+builder.Services.AddScoped<ILoaiSpR, LoaiSpR>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
